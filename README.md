@@ -2,7 +2,7 @@
 
 ### Rust, JS, Dart, and Python coder
 
-- 🔭 I'm currently working on **Hoplixi - safe storege**
+- 🔭 I'm currently working on **Hoplixi - safe storage**
 
 - 🌱 I'm currently learning **Flutter, Cryptography**
 
