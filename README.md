@@ -6,9 +6,7 @@
 
 - 🌱 I'm currently learning **Flutter, Cryptography**
 
-- 📫 How to reach me **misticmvm@gmail.com**
-
-- 📝 You can write to me here **[https://t.me/VartecCHS](https://t.me/VartecCHS)**
+- 📫 How to reach me mail **misticmvm@gmail.com** ot telegram **[https://t.me/VartecCHS](https://t.me/VartecCHS)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
