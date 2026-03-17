@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **misticmvm@gmail.com**
 
-- 📝 I regularly write articles on **[https://t.me/VartecCHS](https://t.me/VartecCHS)**
+- 📝 You can write to me here **[https://t.me/VartecCHS](https://t.me/VartecCHS)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
